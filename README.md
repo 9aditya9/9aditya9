@@ -3,11 +3,13 @@
 - Incoming 3rd year CSE student :v:
 - Full Stack Devloper with proficiency in Python.
 - 🌱 I’m currently learning DSA.
-- 👯 I’m looking for internships opportunity.
+- 👯 I’m looking for internship opportunity.
 
-[![Linkedin Badge](https://img.shields.io/badge/adityabhadauriya?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityabhadauriya/)
 
-<!-- <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="adityabhadauriya" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/adityabhadauriya?trk=profile-badge">Aditya Bhadauriya</a></div> -->
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityabhadauriya/)
+<!-- 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="adityabhadauriya" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/adityabhadauriya?trk=profile-badge">Aditya Bhadauriya</a></div> -->
+
 ## Skills
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=white)](#) [![Flask Badge](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=black)](#) [![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=black)](#) [![SQLite3 Badge](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=black)](#) [![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=black)](#) [![HTML Badge](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white&labelColor=black)](#)
