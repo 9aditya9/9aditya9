@@ -5,7 +5,7 @@
 - Incoming 3rd year CSE student :v:
 - Full Stack Devloper with proficiency in Python.
 - 🌱 I’m currently learning DSA.
-- 👯 I’m looking for internship opportunity.
+<!-- - 👯 I’m looking for internship opportunity. -->
 
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityabhadauriya/)
