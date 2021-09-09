@@ -1,10 +1,10 @@
 ### Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> I'm 
 
-<img src="/name.svg">
+<!-- <img src="/name.svg"> -->
 
-- Incoming 3rd year CSE student :v:
-- Full Stack Devloper with proficiency in Python.
-- 🌱 I’m currently learning DSA.
+- CS ugrad student :v:
+- Full Stack Devloper with proficiency in Python
+- 🌱 I’m currently learning DSA
 <!-- - 👯 I’m looking for internship opportunity. -->
 
 
