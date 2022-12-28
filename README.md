@@ -3,7 +3,7 @@
 <!-- <img src="/name.svg"> -->
 
 - CS ugrad student :v:
-- Full Stack Devloper with proficiency in Python
+- Full Stack Developer with proficiency in Python
 - 🌱 I’m currently focusing on DSA
 <!-- - 👯 I’m looking for internship opportunity. -->
 
