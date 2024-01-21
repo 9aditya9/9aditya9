@@ -4,7 +4,7 @@
 
 - CS ugrad student :v:
 - Full Stack Developer with proficiency in Python
-- 🌱 I’m currently focusing on DSA
+- 🌱 I’m currently focusing on learning new things.
 <!-- - 👯 I’m looking for internship opportunity. -->
 
 
