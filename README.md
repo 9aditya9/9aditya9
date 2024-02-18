@@ -10,7 +10,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityabhadauriya/)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=9aditya9)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=9aditya9) -->
 <!-- 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="adityabhadauriya" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/adityabhadauriya?trk=profile-badge">Aditya Bhadauriya</a></div> -->
 
